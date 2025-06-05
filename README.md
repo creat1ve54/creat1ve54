@@ -62,9 +62,8 @@
 
 ## 📫 Как связаться со мной:
 
-- [Telegram](https://t.me/твоя_ссылка)
-- [LinkedIn](https://www.linkedin.com/in/твоя_ссылка/)
-- Email: твояпочта@example.com
+- [Telegram](https://t.me/creat1ve54)
+- Email: artyr.petrosyan15@mail.ru
 
 [![](https://visitcount.itsvg.in/api?id=creat1ve54&icon=0&color=0)](https://visitcount.itsvg.in)
 
