@@ -18,3 +18,8 @@
 - [🛠 Компонентная библиотека Vue](https://github.com/creat1ve54/vue-ui-library)
 
 </details>
+
+| Проект | Стек | Ссылка |
+|--------|------|--------|
+| 🌿 Nuxt.js Лэндинг | Nuxt 3, Tailwind | [GitHub](https://github.com/creat1ve54/nuxt-business-landing) |
+| ⚡ Vue 3 SPA | Vue 3, TS | [GitHub](https://github.com/creat1ve54/vue3-ts-spa) |
