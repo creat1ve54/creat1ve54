@@ -5,11 +5,10 @@
 
 ## 💼 Немного обо мне:
 
-- 💻 Стек: **HTML5, CSS3, JavaScript, TypeScript, Vue 3, Nuxt.js**
+- 💻 Стек: **HTML5, CSS3, JavaScript, TypeScript, Vue 3, Vue 2, Nuxt.js, React, Redux, Express, PostgreSQL**
 - ⚙️ Также работал с: **Node.js, Express, PostgreSQL, Firebase**
 - 🎯 Цель: стать сильным мидлом и создавать крутые продукты
 - 🚀 Постоянно учусь и прокачиваю архитектуру, паттерны и работу с API
-- 🌱 Сейчас изучаю: **React и архитектуру фронтенда**
 
 ---
 
