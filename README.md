@@ -16,58 +16,12 @@
 - [kapika.ru/oformlenie-zakaza](https://kapika.ru/oformlenie-zakaza) — Vue, вёрстка, функционал, интеграция с бэкендом
 - [rollingmoto.ru](https://www.rollingmoto.ru/) — мелкие правки и доработки
 
-## 🔗 Мой GitHub
-
-[github.com/creat1ve54](https://github.com/creat1ve54?tab=repositories)
-
 ---
 
 > Готов к новым вызовам и интересным задачам. Буду рад сотрудничеству! 🚀
 
-
-# 👋 Привет! Я creat1ve54
-
-🔧 Я занимаюсь **веб-разработкой** уже **2 года**, создаю современные сайты и приложения с упором на **frontend**.  
-Люблю чистую архитектуру, красивый UI и писать код, который понятен другим разработчикам.
-
-## 💼 Немного обо мне:
-
-- 💻 Стек: **HTML5, CSS3, JavaScript, TypeScript, Vue 3, Vue 2, Nuxt.js, React, Redux, Express, PostgreSQL**
-- ⚙️ Также работал с: **Node.js, Express, PostgreSQL, Firebase**
-- 🎯 Цель: стать сильным мидлом и создавать крутые продукты
-- 🚀 Постоянно учусь и прокачиваю архитектуру, паттерны и работу с API
-
 ---
-<!--
-## 🧩 Проекты
 
-<details>
-  <summary><b>🌐 Frontend-проекты</b></summary>
-
-- [🌿 Nuxt.js Лэндинг для бизнеса](https://github.com/creat1ve54/nuxt-business-landing)
-- [⚡ SPA на Vue 3 + TypeScript](https://github.com/creat1ve54/vue3-ts-spa)
-- [📱 Адаптивная вёрстка лендинга](https://github.com/creat1ve54/responsive-landing)
-
-</details>
-
-<details>
-  <summary><b>📦 Fullstack / Backend</b></summary>
-
-- [📝 MERN блог-платформа](https://github.com/creat1ve54/mern-blog)
-- [🔐 Авторизация на Express + JWT](https://github.com/creat1ve54/auth-api)
-
-</details>
-
-<details>
-  <summary><b>🎮 Pet-проекты / Хобби</b></summary>
-
-- [🎮 JS-игра "Футбол 1v1"](https://github.com/creat1ve54/js-football-game)
-- [📊 Калькулятор инвестиций](https://github.com/creat1ve54/invest-calc)
-
-</details>
-
----
--->
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
