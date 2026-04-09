@@ -1,6 +1,6 @@
 # Привет! Меня зовут Артур 👋
 
-💻 Я — веб-разработчик с 2 годами опыта, в основном работаю с **Vue** и **Nuxt**, но также знаком с **React** и **Flutter**. Люблю чистую архитектуру, адаптивную вёрстку и писать код, который легко поддерживать.
+💻 Я — веб-разработчик с 3 годами опыта, в основном работаю с **Vue** и **Nuxt**, но также знаком с **React** и **Flutter**. Люблю чистую архитектуру, адаптивную вёрстку и писать код, который легко поддерживать.
 
 ## 🧠 Soft Skills
 
@@ -31,14 +31,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=creat1ve54&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=creat1ve54&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=creat1ve54&theme=dark&hide_border=false&layout=compact)
 
 ---
 
